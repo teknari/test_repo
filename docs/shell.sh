@@ -1,1 +1,4 @@
-This is a shell innards.
+pwd;
+ls;
+ls ~/;
+echo "That's all folks";
